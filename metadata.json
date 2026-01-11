@@ -1,0 +1,5 @@
+{
+  "name": "HealthPlus Medical Concierge",
+  "description": "A professional medical appointment booking app with a multi-step wizard, interactive scheduling, and WhatsApp integration for instant confirmations.",
+  "requestFramePermissions": []
+}
