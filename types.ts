@@ -27,6 +27,5 @@ export enum Step {
   PatientInfo = 1,
   DoctorSelection = 2,
   DateTimeSelection = 3,
-  Review = 4,
-  Confirmation = 5
+  Review = 4
 }

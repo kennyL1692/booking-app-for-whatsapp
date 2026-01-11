@@ -3,7 +3,7 @@ import { Doctor } from './types';
 
 export const CLINIC_CONFIG = {
   name: "Health Plus Medical Center",
-  phone: "1234567890", // Example WhatsApp number
+  phone: "60163280917", // Updated WhatsApp number
   email: "appointments@healthplus.com",
   address: "123 Medical Drive, Health City",
   availableHours: [
